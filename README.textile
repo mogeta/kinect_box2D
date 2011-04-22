@@ -1,3 +1,9 @@
+h1. This is example
+
+* flash (action script 3)
+* kinect
+* use physics engine (box2D)
+
 h1. include
 
 * as3kinect
@@ -6,5 +12,6 @@ h1. include
 h1. reference
 
 * http://www.as3kinect.org/
+** http://www.as3kinect.org/forum/?mingleforumaction=viewtopic&t=17
 * http://box2dflash.sourceforge.net/
 * http://www.openni.org/
