@@ -1,0 +1,10 @@
+h1. include
+
+* as3kinect
+* box2D
+
+h1. reference
+
+* http://www.as3kinect.org/
+* http://box2dflash.sourceforge.net/
+* http://www.openni.org/
